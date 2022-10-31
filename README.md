@@ -1,1 +1,1 @@
-hi
+[hi](https://bruno.wtf)
